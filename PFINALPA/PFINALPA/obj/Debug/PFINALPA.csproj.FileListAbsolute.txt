@@ -1,0 +1,16 @@
+D:\Users\Neko\source\repos\PFINALPA\PFINALPA\bin\Debug\PFINALPA.exe.config
+D:\Users\Neko\source\repos\PFINALPA\PFINALPA\bin\Debug\PFINALPA.exe
+D:\Users\Neko\source\repos\PFINALPA\PFINALPA\bin\Debug\PFINALPA.pdb
+D:\Users\Neko\source\repos\PFINALPA\PFINALPA\bin\Debug\MySql.Data.dll
+D:\Users\Neko\source\repos\PFINALPA\PFINALPA\bin\Debug\MySql.Data.xml
+D:\Users\Neko\source\repos\PFINALPA\PFINALPA\obj\Debug\PFINALPA.csproj.AssemblyReference.cache
+D:\Users\Neko\source\repos\PFINALPA\PFINALPA\obj\Debug\PFINALPA.Form1.resources
+D:\Users\Neko\source\repos\PFINALPA\PFINALPA\obj\Debug\PFINALPA.Properties.Resources.resources
+D:\Users\Neko\source\repos\PFINALPA\PFINALPA\obj\Debug\PFINALPA.SignUp.resources
+D:\Users\Neko\source\repos\PFINALPA\PFINALPA\obj\Debug\PFINALPA.csproj.GenerateResource.cache
+D:\Users\Neko\source\repos\PFINALPA\PFINALPA\obj\Debug\PFINALPA.csproj.CoreCompileInputs.cache
+D:\Users\Neko\source\repos\PFINALPA\PFINALPA\obj\Debug\PFINALPA.csproj.Up2Date
+D:\Users\Neko\source\repos\PFINALPA\PFINALPA\obj\Debug\PFINALPA.exe
+D:\Users\Neko\source\repos\PFINALPA\PFINALPA\obj\Debug\PFINALPA.pdb
+D:\Users\Neko\source\repos\PFINALPA\PFINALPA\obj\Debug\PFINALPA.exe.config
+D:\Users\Neko\source\repos\PFINALPA\PFINALPA\obj\Debug\PFINALPA.Dashboard.resources
